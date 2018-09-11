@@ -3,4 +3,4 @@ email: claudia@hi-ll.info
 description: Finance, Private Banking, Wealth
 google_analytics: [Your Google Analytics tracking ID]
 
-theme: minima
+theme: jekyll-theme-cayman
