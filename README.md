@@ -22,6 +22,6 @@ Learn more on  **LinkedIn**
 ![Western Union](https://media.licdn.com/dms/image/C4E0BAQGq3mdM2j4Omw/company-logo_400_400/0?e=1544659200&v=beta&t=Udki1u3uU2TQwkBbo_wMQ9xjtrVvg1f7WtZvPqm50DQ=w40)
 
 **Have feedback on this post? Let @claudiahill know on Twitter.
-Need help or found a job advert? Contact me on facebook.**
+Need help? Contact me on facebook.**
 
 © 2018 claudiahill  All Rights Reserved  Privacy Policy
