@@ -1,4 +1,4 @@
-![](https://lh5.googleusercontent.com/DzlelJaIl1U-qqxZQawP1qKkyALsNMmnrptWpDYBqRQBeJxR0fQzql5aK_0=w2400)
+![](https://lh5.googleusercontent.com/DzlelJaIl1U-qqxZQawP1qKkyALsNMmnrptWpDYBqRQBeJxR0fQzql5aK_0=w240)
 ![companylogo](https://lh6.googleusercontent.com/f4cIkwXxhqnp6bOlwdcVf8mQ-OeZhbmLUsJ2TdVqSMD65WNyHuIiwYXWLlc=w60)
 ## Team
 ![profile](https://lh6.googleusercontent.com/Sgnp1O_TtQZBTkORCtzgIiSH2lAnvTowgMerMSx0J5hZPZDe_cqcxaMhte8=w2400)
