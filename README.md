@@ -24,6 +24,6 @@ Learn more on  **LinkedIn**
 - Citizenship [Switzerland, Uster] & [Italy, Pisa]
 
 Have feedback on this post? Let @claudiahill know on Twitter.
-Need help or found a bug? Contact me.
+Need help or found a job advert? Contact me on facebook.
 
 © 2018 claudiahill  All Rights Reserved  Privacy Policy
