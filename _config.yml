@@ -1,6 +1,19 @@
 
-theme: jekyll-theme-cayman
 
+![pciture hillinfo]
 title: Claudia Hill
-description: Finance, Private Banking, Wealth
+email: claudia@hi-ll.info
+description: >- # this means to ignore newlines until "baseurl:"
+Finance, Private Banking, Wealth
 google_analytics: [Your Google Analytics tracking ID]
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.hi-ll.net" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: claudiahill
+github_username: claudiahill
+
+# Build Settings
+markdown: kramdown
+theme: minima
+plugins:
+- jekyll-feed
