@@ -6,7 +6,7 @@
 ![LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50)
 ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)
 ![instagram](https://lh5.googleusercontent.com/n777S_0bN5E_hMmetDXC2vgMCEe1Y-fE0-xmmxUIr2noRm_YjkHLwjYWv-I=w50) 
-![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50) claudia@hi-ll.info
+![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50)
 
 Claudia has had a long career in the **PrivateBanking** industry in Switzerland & Asia. She has held leadership positions at large companies, for international clients in private banking wealth management.
 
