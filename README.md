@@ -6,7 +6,7 @@
 
 Claudia has had a long career in the **PrivateBanking** industry in Switzerland & Asia. She has held leadership positions at large companies, for international clients in private banking wealth management.
 
-She began her career in the **Front** as **Relationship Manager** as part of various wealth management projects for Credit Suisse Lugano as a finance professional in prestigious Career-Starter Program, before rising to CS Singapore spending 3 years overseeing clients investment pipeline immediately after the crisis; Author for corriere.it Lugano Group. She later joined Julius Bär Singapore and UBS as Relationship Manager having worked largely bringing in IWM beneficiaries, followed by a move back to Zurich in Foreign Exchange at Western Union Business Solutions. She moved back to Credit Suisse as **Business Manager**, Managing Critical Digital Projects for IWM rising to Director, and privileged Executive IWM Club.
+She began her career in the **Front** as **Relationship Manager** as part of various wealth management projects for Credit Suisse Lugano as a finance professional in prestigious Career-Starter Program, before rising to CS Singapore spending 3 years overseeing clients investment pipeline immediately after the crisis; Author for corriere.it Lugano Group. She later joined Julius Bär Singapore and UBS as Relationship Manager having worked largely bringing in IWM beneficiaries, followed by a move back to Zurich in Foreign Exchange at Western Union Business Solutions. She moved back to Credit Suisse as **Business Manager**, Managing Critical Digital Projects for IWM rising to Director, and sponsorship to the Executive IWM Club.
 
 Learn more on  **LinkedIn**
 
@@ -22,4 +22,31 @@ Learn more on  **LinkedIn**
 - Address [Europe/Zurich]
 - Citizenship [Switzerland, Uster] & [Italy, Pisa]
 
-© 2018 hillinfo  All Rights Reserved  Privacy Policy
+
+Have feedback on this post? Let @claudiahill know on Twitter.
+Need help or found a bug? Contact me.
+
+© 2018 claudiahill  All Rights Reserved  Privacy Policy
+
+Features
+
+    Blog
+    Project management
+    Documentation
+
+Community
+
+    Personal
+    For Business
+    For Education
+    Sponsorships
+
+Resources
+
+    Contact
+    Help
+    Status
+    Terms
+    Privacy
+    Security
+    Training
