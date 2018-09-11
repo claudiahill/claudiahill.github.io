@@ -8,7 +8,7 @@
 ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50)
 
 Claudia has had a long career in the **finance** industry in Europe & Asia. She has held leadership positions at international private banks, for clients in wealth management, has a master's degree Summa Cum Laude at the University of Pisa in Banking, and citizenship of 
-Switzerland, Italy and UK, and fluent in their languages.
+Switzerland, Italy and UK, and is fluent in the national languages.
 
 She began her career in the Credit Suisse Lugano Team as **Relationship Manager** as part of Career Start program, close to the front business & authored articles for corriere.it and french media group, before rising to a position in Singapore **to manage expectations of Ultra- and High Net Worth Individuals** including overcoming effects immediately after the financial crisis. In addition she learnt Mandarin and followed to the Julius Bär & UBS Singapore Team having worked largely for the same beneficiaries with new investment pipeline, and then pivoted to Zurich for a new perspectice. She returned to Credit Suisse largely with focus on **Business Management** across Business Area’s COO functions, Advisory & Sales and the International Wealth Management Division. Rising to Director, and distinguished with the IWM CO Club executive sponsorship she serves the larger effort to **influence product adoption** and corporate  initiatives relating to the **strategic**, organizational and operational development of the Business Area and **independently drive and lead, and present** to management topics in ways that are extremely attractive for addressing relevant features of today's complex market scenarios in Russia, Greece, Israel and Eastern European.
 
