@@ -9,7 +9,7 @@
 
 Claudia has had a long career in the **PrivateBanking** industry in Switzerland & Asia. She has held leadership positions at international  private banks, for clients in wealth management.
 
-She began her career in the **IWM** as **Relationship Manager** as part of various projects for Credit Suisse Lugano as a finance professional in the Career-Starter Program, Author articles for corriere.it Group, before rising to CS Singapore spending 3 years overseeing clients investment pipeline immediately after the crisis. She then joined Julius Bär Singapore and UBS Teams as Relationship Manager having worked largely for **UHNW** beneficiaries,  influencing product adoption followed by a move back to Western Union Business Solutions. Returning to Credit Suisse as **Business Manager**, she has risen to Director, been distinguished with the IWM CO Club award and brought about digital adoption with executive sponsorship for Business Area Emerging Europe.
+She began her career in the **IWM** as **Relationship Manager** as part of various projects for Credit Suisse Lugano as a finance professional in the Career-Starter Program, Author articles for corriere.it Group, before rising to CS Singapore spending 3 years overseeing clients investment pipeline immediately after the crisis. She then joined Julius Bär Singapore and UBS Teams as Relationship Manager having worked largely for **UHNW** beneficiaries, followed by a move back to Western Union Business Solutions. In Credit Suisse as **Business Manager** for Emerging Europe, rising to Director, and distinguished with the IWM CO Club executive sponsorship she is influencing digital adoption addressing complex scenarios of IC's and RM's.
 
 Learn more on  **LinkedIn**
 
