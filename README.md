@@ -1,4 +1,6 @@
 ![companylogo](https://lh6.googleusercontent.com/f4cIkwXxhqnp6bOlwdcVf8mQ-OeZhbmLUsJ2TdVqSMD65WNyHuIiwYXWLlc=w2400)
+![profile](https://lh6.googleusercontent.com/Sgnp1O_TtQZBTkORCtzgIiSH2lAnvTowgMerMSx0J5hZPZDe_cqcxaMhte8=w40) 
+![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50) claudia@hi-ll.info
 ### CLAUDIA HILL | BUSINESS MANAGER
 ![LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50)
 ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)
@@ -10,17 +12,13 @@ She began her career in the **Front** as **Relationship Manager** as part of var
 
 Learn more on  **LinkedIn**
 
-![profile](https://lh6.googleusercontent.com/Sgnp1O_TtQZBTkORCtzgIiSH2lAnvTowgMerMSx0J5hZPZDe_cqcxaMhte8=w40)
-
 |tags: digital banking, wealth, emerging europe|
 
-![Credit Suisse](https://media.licdn.com/dms/image/C4D0BAQHeKEVElO-A3Q/company-logo_400_400/0?e=1544659200&v=beta&t=0miG5O3W0_PkCoX4oBCqkUED-uR_9NhWlqOwr50NrG8)
-![Julius Bär](https://media.licdn.com/dms/image/C4E0BAQGTAN4g-27J2w/company-logo_400_400/0?e=1544659200&v=beta&t=WvV3uuYqJXSZosC8kx6tc0bAjJ4DCtUWdhNoElFXJNc)
-![UBS](https://media.licdn.com/dms/image/C4D0BAQE2myS7fLS2Tw/company-logo_400_400/0?e=1544659200&v=beta&t=Xu9y0YFNkwGe6ixi5pYNEL2_Nz-wck46uttjJ3gSbhM)
-![Western Union](https://media.licdn.com/dms/image/C4E0BAQGq3mdM2j4Omw/company-logo_400_400/0?e=1544659200&v=beta&t=Udki1u3uU2TQwkBbo_wMQ9xjtrVvg1f7WtZvPqm50DQ)
+![Credit Suisse](https://media.licdn.com/dms/image/C4D0BAQHeKEVElO-A3Q/company-logo_400_400/0?e=1544659200&v=beta&t=0miG5O3W0_PkCoX4oBCqkUED-uR_9NhWlqOwr50NrG8=w2400)
+![Julius Bär](https://media.licdn.com/dms/image/C4E0BAQGTAN4g-27J2w/company-logo_400_400/0?e=1544659200&v=beta&t=WvV3uuYqJXSZosC8kx6tc0bAjJ4DCtUWdhNoElFXJNc=w2400)
+![UBS](https://media.licdn.com/dms/image/C4D0BAQE2myS7fLS2Tw/company-logo_400_400/0?e=1544659200&v=beta&t=Xu9y0YFNkwGe6ixi5pYNEL2_Nz-wck46uttjJ3gSbhM=w2400)
+![Western Union](https://media.licdn.com/dms/image/C4E0BAQGq3mdM2j4Omw/company-logo_400_400/0?e=1544659200&v=beta&t=Udki1u3uU2TQwkBbo_wMQ9xjtrVvg1f7WtZvPqm50DQ=w2400)
 
-![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50)
-- claudia.tripodi@gmail.com
 - Address [Europe/Zurich]
 - Citizenship [Switzerland, Uster] & [Italy, Pisa]
 
