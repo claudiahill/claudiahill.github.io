@@ -7,7 +7,8 @@
 ![instagram](https://lh5.googleusercontent.com/n777S_0bN5E_hMmetDXC2vgMCEe1Y-fE0-xmmxUIr2noRm_YjkHLwjYWv-I=w50) 
 ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50)
 
-Claudia has had a long career in the **finance** industry in D-A-CH & APAC. She has held leadership positions at international  private banks, for clients in wealth management and has a master's degree Summa Cum Laude at the University of Pisa in Finance Banking.
+Claudia has had a long career in the **finance** industry in Europe & Asia. She has held leadership positions at international private banks, for clients in wealth management and has a master's degree Summa Cum Laude at the University of Pisa in Banking, and citizenship of 
+Switzerland and Italy.
 
 She began her career in the Credit Suisse Lugano Team as **Relationship Manager** as part of Career Start program, close to the front business & authored articles for corriere.it Group, before rising to a position in Singapore **with a focus on and manage expectations of Ultra- and High Net Worth Individuals** including overcoming effects immediately after the financial crisis. She followed to the Julius Bär & UBS Singapore Team having worked largely for the same beneficiaries with new investment pipeline, and then pivoted to Zurich for a new perspectice. She returned to Credit Suisse largely with focus on **Business Management** across Business Area’s COO functions, Advisory & Sales and the International Wealth Management Division. Rising to Director, and distinguished with the IWM CO Club executive sponsorship she serves the larger effort to **influence product adoption** and corporate  initiatives relating to the **strategic**, organizational and operational development of the Business Area and **independently drive and lead, and present** to management topics in ways that are extremely attractive for addressing relevant features of today's complex market scenarios in Russia, Greece, Israel and Eastern European.
 
@@ -20,10 +21,7 @@ Learn more on  **LinkedIn**
 ![UBS](https://media.licdn.com/dms/image/C4D0BAQE2myS7fLS2Tw/company-logo_400_400/0?e=1544659200&v=beta&t=Xu9y0YFNkwGe6ixi5pYNEL2_Nz-wck46uttjJ3gSbhM=w2400)
 ![Western Union](https://media.licdn.com/dms/image/C4E0BAQGq3mdM2j4Omw/company-logo_400_400/0?e=1544659200&v=beta&t=Udki1u3uU2TQwkBbo_wMQ9xjtrVvg1f7WtZvPqm50DQ=w40)
 
-- Address [Europe/Zurich]
-- Citizenship [Switzerland, Uster] & [Italy, Pisa]
-
-Have feedback on this post? Let @claudiahill know on Twitter.
-Need help or found a job advert? Contact me on facebook.
+**Have feedback on this post? Let @claudiahill know on Twitter.
+Need help or found a job advert? Contact me on facebook.**
 
 © 2018 claudiahill  All Rights Reserved  Privacy Policy
