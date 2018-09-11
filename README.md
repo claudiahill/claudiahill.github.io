@@ -1,6 +1,8 @@
-![profile](https://lh6.googleusercontent.com/Sgnp1O_TtQZBTkORCtzgIiSH2lAnvTowgMerMSx0J5hZPZDe_cqcxaMhte8=w40) 
-
-### CLAUDIA HILL | BUSINESS MANAGER ![companylogo](https://lh6.googleusercontent.com/f4cIkwXxhqnp6bOlwdcVf8mQ-OeZhbmLUsJ2TdVqSMD65WNyHuIiwYXWLlc=w50)
+![](https://lh5.googleusercontent.com/DzlelJaIl1U-qqxZQawP1qKkyALsNMmnrptWpDYBqRQBeJxR0fQzql5aK_0=w2400)
+![companylogo](https://lh6.googleusercontent.com/f4cIkwXxhqnp6bOlwdcVf8mQ-OeZhbmLUsJ2TdVqSMD65WNyHuIiwYXWLlc=w60)
+## Team
+![profile](https://lh6.googleusercontent.com/Sgnp1O_TtQZBTkORCtzgIiSH2lAnvTowgMerMSx0J5hZPZDe_cqcxaMhte8=w2400)
+### CLAUDIA HILL | BUSINESS MANAGER 
 ![LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50)
 ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)
 ![instagram](https://lh5.googleusercontent.com/n777S_0bN5E_hMmetDXC2vgMCEe1Y-fE0-xmmxUIr2noRm_YjkHLwjYWv-I=w50) 
@@ -13,6 +15,7 @@ She began her career in the **Front** as **Relationship Manager** as part of var
 Learn more on  **LinkedIn**
 
 |tags: digital banking, wealth, emerging europe|
+
 
 ![Credit Suisse](https://media.licdn.com/dms/image/C4D0BAQHeKEVElO-A3Q/company-logo_400_400/0?e=1544659200&v=beta&t=0miG5O3W0_PkCoX4oBCqkUED-uR_9NhWlqOwr50NrG8=w40)
 ![Julius Bär](https://media.licdn.com/dms/image/C4E0BAQGTAN4g-27J2w/company-logo_400_400/0?e=1544659200&v=beta&t=WvV3uuYqJXSZosC8kx6tc0bAjJ4DCtUWdhNoElFXJNc=w40)
