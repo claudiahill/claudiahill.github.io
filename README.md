@@ -4,9 +4,9 @@
 ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)
 ![instagram](https://lh5.googleusercontent.com/n777S_0bN5E_hMmetDXC2vgMCEe1Y-fE0-xmmxUIr2noRm_YjkHLwjYWv-I=w50) 
 
-Claudia has had a long career in the **PrivateBanking** industry in Switzerland & Asia. She has held leadership positions at large companies, in private banking wealth management.
+Claudia has had a long career in the **PrivateBanking** industry in Switzerland & Asia. She has held leadership positions at large companies, for international clients in private banking wealth management.
 
-She began her career in **PrivateBanking** as part of various wealth management projects for Credit Suisse as a finance professional in Career-Starter Program. She spent several years at Credit Suisse, overseeing clients investment pipeline; in the **Front** rising to **Relationship Manager**; Author for corriere.it Lugano Group, before rising to CS Singapore largely launching Singapore Branch, immediately before the crisis. She later joined Julius Bär Singapore and UBS as Relationship Manager having worked largely in IWM beneficiaries, followed by Foreign Exchange at Business Western Union. She moved back to Credit Suisse as Business Manager, **Managing Digital Projects for IWM** rising to Director.
+She began her career in the **Front** as **Relationship Manager** as part of various wealth management projects for Credit Suisse Lugano as a finance professional in prestigious Career-Starter Program, before rising to CS Singapore spending 3 years overseeing clients investment pipeline immediately after the crisis; Author for corriere.it Lugano Group. She later joined Julius Bär Singapore and UBS as Relationship Manager having worked largely bringing in IWM beneficiaries, followed by a move back to Zurich in Foreign Exchange at Western Union Business Solutions. She moved back to Credit Suisse as **Business Manager**, Managing Critical Digital Projects for IWM rising to Director, and privileged Executive IWM Club.
 
 Learn more on  **LinkedIn**
 
