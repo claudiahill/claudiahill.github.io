@@ -7,9 +7,9 @@
 ![instagram](https://lh5.googleusercontent.com/n777S_0bN5E_hMmetDXC2vgMCEe1Y-fE0-xmmxUIr2noRm_YjkHLwjYWv-I=w50) 
 ![mail](https://lh6.googleusercontent.com/Qhi7XFcsQ_j4x8V_HaOdsyESNTDSYk5QaAxXGB4tzHGkV8hjBnW5ik63miQ=w50)
 
-Claudia has had a long career in the **PrivateBanking** industry in Switzerland & Asia. She has held leadership positions at international  private banks, for clients in wealth management.
+Claudia has had a long career in the **finance** industry in Switzerland & Asia. She has held leadership positions at international  private banks, for clients in wealth management.
 
-She began her career in the **IWM** as **Relationship Manager** as part of various projects for Credit Suisse Lugano as a finance professional in the Career-Starter Program, Author articles for corriere.it Group, before rising to CS Singapore spending 3 years overseeing clients investment pipeline including overcoming effects immediately after the crisis. She followed to the Julius Bär & UBS Singapore Team as Relationship Manager having worked largely for **UHNW** beneficiaries, and then pivoted to Zurich, for a new perspectice. She returned to Credit Suisse as **Business Manager** for Emerging Europe, rising to Director, and distinguished with the IWM CO Club executive sponsorship she is influencing digital adoption in ways that are extremely attractive for addressing complex market scenarios and corporate strategy.
+She began her career in the **Credit Suisse** Lugano Team as **Relationship Manager** as part of various company’s product or service projects in the Career-Starter Program, Author articles for corriere.it Group, before rising to CS Singapore spending 3 years overseeing clients investment pipeline including overcoming effects immediately after the crisis. She followed to the Julius Bär & UBS Singapore Team as Relationship Manager having worked largely for **UHNW** beneficiaries, and then pivoted to Zurich for a new perspectice. She returned to Credit Suisse as **Business Manager** for Emerging Europe, rising to Director, and distinguished with the IWM CO Club executive sponsorship she is influencing digital adoption in ways that are extremely attractive for addressing complex market scenarios and corporate strategy.
 
 Learn more on  **LinkedIn**
 
