@@ -1,4 +1,4 @@
-![profile](https://lh6.googleusercontent.com/Sgnp1O_TtQZBTkORCtzgIiSH2lAnvTowgMerMSx0J5hZPZDe_cqcxaMhte8=w40)
+![companylogo](https://lh6.googleusercontent.com/f4cIkwXxhqnp6bOlwdcVf8mQ-OeZhbmLUsJ2TdVqSMD65WNyHuIiwYXWLlc=w2400)
 ### CLAUDIA HILL | BUSINESS MANAGER
 ![LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50)
 ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)
@@ -9,6 +9,8 @@ Claudia has had a long career in the **PrivateBanking** industry in Switzerland 
 She began her career in the **Front** as **Relationship Manager** as part of various wealth management projects for Credit Suisse Lugano as a finance professional in prestigious Career-Starter Program, before rising to CS Singapore spending 3 years overseeing clients investment pipeline immediately after the crisis; Author for corriere.it Lugano Group. She later joined Julius Bär Singapore and UBS as Relationship Manager having worked largely bringing in IWM beneficiaries, followed by a move back to Zurich in Foreign Exchange at Western Union Business Solutions. She moved back to Credit Suisse as **Business Manager**, Managing Critical Digital Projects for IWM rising to Director, and sponsorship to the Executive IWM Club.
 
 Learn more on  **LinkedIn**
+
+![profile](https://lh6.googleusercontent.com/Sgnp1O_TtQZBTkORCtzgIiSH2lAnvTowgMerMSx0J5hZPZDe_cqcxaMhte8=w40)
 
 |tags: digital banking, wealth, emerging europe|
 
