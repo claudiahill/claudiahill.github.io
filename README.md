@@ -44,8 +44,9 @@ https://www.credit-suisse.com/articles/news-and-expertise/2018/08/en/digitalizat
 {% octicon bell %}
 
 **Have feedback on this post? Let @claudiahill know on Twitter.
-Need help? Contact me on facebook.**
-
+Need help? Contact me on facebook & reddit europe;banking.**
+GitHub API
+https://github.com/claudiahill.png 
 © 2018 claudiahill  All Rights Reserved  Privacy Policy
 https://ec.europa.eu/digital-single-market/en/news/proposal-directive-european-parliament-and-council-copyright-digital-single-market
 
