@@ -21,18 +21,6 @@ Topic
 
 Sep 10, 2018 Creditsuisse Policy 
 ![Credit Suisse](https://media.licdn.com/dms/image/C4D0BAQHeKEVElO-A3Q/company-logo_400_400/0?e=1544659200&v=beta&t=0miG5O3W0_PkCoX4oBCqkUED-uR_9NhWlqOwr50NrG8=w40)
-<div class="row">
-	<div class="large-12 columns">
-		<h3>Employed at</h3>
-	</div>
-	<div class="large-6 columns">
-	<ul class="accordion" data-accordion data-allow-all-closed="true">
-		<li class="accordion-item" data-accordion-item>
-			<a href="#" class="accordion-title">Credit Suisse</a>
-			<div class="accordion-content" data-tab-content>
-      <p>Skills</p>
-			</div>
-    </li>
 
 https://www.credit-suisse.com/articles/news-and-expertise/2018/08/en/digitalization-will-not-make-us-redundant.html
 
@@ -41,7 +29,7 @@ https://www.credit-suisse.com/articles/news-and-expertise/2018/08/en/digitalizat
 ![Western Union](https://media.licdn.com/dms/image/C4E0BAQGq3mdM2j4Omw/company-logo_400_400/0?e=1544659200&v=beta&t=Udki1u3uU2TQwkBbo_wMQ9xjtrVvg1f7WtZvPqm50DQ=w40)
 
 
-**Have feedback on this post? Let @claudiahill know on Twitter.
+Have feedback on this post? Let @claudiahill know on Twitter.
 Need help? Contact me.
 
 © 2018 claudiahill  All Rights Reserved  Privacy Policy
