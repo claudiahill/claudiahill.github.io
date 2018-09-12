@@ -16,6 +16,8 @@ Learn more on  **LinkedIn**
 
 |tags: Project management, digital banking, wealth, emerging europe|
 
+Filter by category / collection
+Employed at
 
 ![Credit Suisse](https://media.licdn.com/dms/image/C4D0BAQHeKEVElO-A3Q/company-logo_400_400/0?e=1544659200&v=beta&t=0miG5O3W0_PkCoX4oBCqkUED-uR_9NhWlqOwr50NrG8=w40)
 <div class="row">
