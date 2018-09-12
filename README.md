@@ -21,6 +21,9 @@ Learn more on  **LinkedIn**
 ![UBS](https://media.licdn.com/dms/image/C4D0BAQE2myS7fLS2Tw/company-logo_400_400/0?e=1544659200&v=beta&t=Xu9y0YFNkwGe6ixi5pYNEL2_Nz-wck46uttjJ3gSbhM=w2400)
 ![Western Union](https://media.licdn.com/dms/image/C4E0BAQGq3mdM2j4Omw/company-logo_400_400/0?e=1544659200&v=beta&t=Udki1u3uU2TQwkBbo_wMQ9xjtrVvg1f7WtZvPqm50DQ=w40)
 
+<!-- svg jekyll helper -->
+{% octicon bell %}
+
 **Have feedback on this post? Let @claudiahill know on Twitter.
 Need help? Contact me on facebook.**
 
