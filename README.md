@@ -16,7 +16,21 @@ Learn more on  **LinkedIn**
 
 |tags: Project management, digital banking, wealth, emerging europe|
 
+
 ![Credit Suisse](https://media.licdn.com/dms/image/C4D0BAQHeKEVElO-A3Q/company-logo_400_400/0?e=1544659200&v=beta&t=0miG5O3W0_PkCoX4oBCqkUED-uR_9NhWlqOwr50NrG8=w40)
+<div class="row">
+	<div class="large-12 columns">
+		<h3>Empoyled at</h3>
+	</div>
+	<div class="large-6 columns">
+	<ul class="accordion" data-accordion data-allow-all-closed="true">
+		<li class="accordion-item" data-accordion-item>
+			<a href="#" class="accordion-title">Credit Suisse</a>
+			<div class="accordion-content" data-tab-content>
+      <p>skills</p>
+			</div>
+    </li>
+
 ![Julius Bär](https://media.licdn.com/dms/image/C4E0BAQGTAN4g-27J2w/company-logo_400_400/0?e=1544659200&v=beta&t=WvV3uuYqJXSZosC8kx6tc0bAjJ4DCtUWdhNoElFXJNc=w40)
 ![UBS](https://media.licdn.com/dms/image/C4D0BAQE2myS7fLS2Tw/company-logo_400_400/0?e=1544659200&v=beta&t=Xu9y0YFNkwGe6ixi5pYNEL2_Nz-wck46uttjJ3gSbhM=w2400)
 ![Western Union](https://media.licdn.com/dms/image/C4E0BAQGq3mdM2j4Omw/company-logo_400_400/0?e=1544659200&v=beta&t=Udki1u3uU2TQwkBbo_wMQ9xjtrVvg1f7WtZvPqm50DQ=w40)
@@ -28,3 +42,5 @@ Learn more on  **LinkedIn**
 Need help? Contact me on facebook.**
 
 © 2018 claudiahill  All Rights Reserved  Privacy Policy
+
+<div class="columns"> <div class="column is-5"> <div class="content"> <h5 class="title is-5">About</h5> <p>I built Favicon.io because creating a favicon should be a simple process. No other favicon generator or favicon creator can make a well designed favicon from text. If you like favicon.io or have a suggestion feel free to <a href="https://twitter.com/johnsorrentino" target="_blank">say hello</a>. Feedback is much appreciated!</p> </div> </div> <div class="column is-1"></div> <div class="column is-2"> <div class="content"> <h5 class="title is-5">Built With</h5> <p> <a href="https://bulma.io/" target="_blank">Bulma</a> </p> <p> <a href="http://huebee.buzz/" target="_blank">Huebee</a> </p> <p> <a href="https://github.com/johnsorrentino/center.js" target="_blank">Center.js</a> </p> <p> <a href="https://github.com/johnsorrentino/favicon.js" target="_blank">Favicon.js</a> </p> </div> </div> <div class="column is-2"> <div class="content"> <h5 class="title is-5">Share</h5> <p><a href="https://twitter.com/intent/tweet?text=Favicon.io: design, generate, and download a minimal favicon for your website&amp;url=https://favicon.io&amp;via=johnsorrentino" target="_blank"> <span class="icon"><i class="fa fa-twitter"></i></span> <span>Twitter</span> </a></p> <p><a href="https://www.facebook.com/sharer/sharer.php?u=https://favicon.io" target="_blank"> <span class="icon"><i class="fa fa-facebook"></i></span> <span>Facebook</span> </a></p> <p><a href="//www.reddit.com/submit?url=https://favicon.io" target="_blank"> <span class="icon"><i class="fa fa-reddit"></i></span> <span>Reddit</span> </a></p> <p><a href="http://plus.google.com/share?url=https://favicon.io" target="_blank"> <span class="icon"><i class="fa fa-google"></i></span> <span>Google+</span> </a></p> </div> </div> <div class="column is-2"> <div class="content"> <h5 class="title is-5">Contact</h5> <p> <a href="mailto:admin@favicon.io">Email</a> </p> <p> <a href="https://twitter.com/johnsorrentino" target="_blank">Twitter</a> </p> <p> <a href="/privacy-policy">Privacy Policy</a> </p> <p> <a href="/terms-of-use">Terms of Use</a> </p> </div> </div> </div>
