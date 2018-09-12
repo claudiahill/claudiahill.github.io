@@ -1,7 +1,7 @@
 ![](https://lh5.googleusercontent.com/DzlelJaIl1U-qqxZQawP1qKkyALsNMmnrptWpDYBqRQBeJxR0fQzql5aK_0=w2400)
-## Team
+# Team
 ![profile](https://lh6.googleusercontent.com/Sgnp1O_TtQZBTkORCtzgIiSH2lAnvTowgMerMSx0J5hZPZDe_cqcxaMhte8=w2400)
-#### CLAUDIA HILL | BUSINESS MANAGER 
+## CLAUDIA HILL | BUSINESS MANAGER 
 ![LinkedIn](https://lh5.googleusercontent.com/-bTfap3my7W4NXJgh20bQin-Q3W1PGUS-xuw5B3PuuRjoG5Ov8khzqiSfvs=w50)
 ![twitter](https://lh5.googleusercontent.com/a22yI-6dVlUoNbGd1_PYNa9lvKpaYWYD_AxYHaE5W7Ry1nnXi4L9ldV6qk8=w50)
 ![instagram](https://lh5.googleusercontent.com/n777S_0bN5E_hMmetDXC2vgMCEe1Y-fE0-xmmxUIr2noRm_YjkHLwjYWv-I=w50) 
