@@ -17,12 +17,17 @@ Learn more on  **LinkedIn**
 
 |tags: Project management, digital banking, wealth, emerging europe|
 
-Topic
+Popular
 
 Sep 10, 2018 Creditsuisse Policy 
 ![Credit Suisse](https://media.licdn.com/dms/image/C4D0BAQHeKEVElO-A3Q/company-logo_400_400/0?e=1544659200&v=beta&t=0miG5O3W0_PkCoX4oBCqkUED-uR_9NhWlqOwr50NrG8=w40)
 
 https://www.credit-suisse.com/articles/news-and-expertise/2018/08/en/digitalization-will-not-make-us-redundant.html
+
+Events
+
+https://githubuniverse.com/
+
 
 ![Julius Bär](https://media.licdn.com/dms/image/C4E0BAQGTAN4g-27J2w/company-logo_400_400/0?e=1544659200&v=beta&t=WvV3uuYqJXSZosC8kx6tc0bAjJ4DCtUWdhNoElFXJNc=w40)
 ![UBS](https://media.licdn.com/dms/image/C4D0BAQE2myS7fLS2Tw/company-logo_400_400/0?e=1544659200&v=beta&t=Xu9y0YFNkwGe6ixi5pYNEL2_Nz-wck46uttjJ3gSbhM=w2400)
