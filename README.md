@@ -19,7 +19,7 @@ Learn more on  **LinkedIn**
 |tags: Project management, digital banking, wealth, emerging europe|
 
 Filter by category / collection
-Employed at
+Topic
 
 ![Credit Suisse](https://media.licdn.com/dms/image/C4D0BAQHeKEVElO-A3Q/company-logo_400_400/0?e=1544659200&v=beta&t=0miG5O3W0_PkCoX4oBCqkUED-uR_9NhWlqOwr50NrG8=w40)
 <div class="row">
@@ -35,6 +35,12 @@ Employed at
 			</div>
     </li>
 
+https://www.credit-suisse.com/articles/news-and-expertise/2018/08/en/digitalization-will-not-make-us-redundant.html
+
+Events
+
+https://lauzhack.com/
+
 ![Julius Bär](https://media.licdn.com/dms/image/C4E0BAQGTAN4g-27J2w/company-logo_400_400/0?e=1544659200&v=beta&t=WvV3uuYqJXSZosC8kx6tc0bAjJ4DCtUWdhNoElFXJNc=w40)
 ![UBS](https://media.licdn.com/dms/image/C4D0BAQE2myS7fLS2Tw/company-logo_400_400/0?e=1544659200&v=beta&t=Xu9y0YFNkwGe6ixi5pYNEL2_Nz-wck46uttjJ3gSbhM=w2400)
 ![Western Union](https://media.licdn.com/dms/image/C4E0BAQGq3mdM2j4Omw/company-logo_400_400/0?e=1544659200&v=beta&t=Udki1u3uU2TQwkBbo_wMQ9xjtrVvg1f7WtZvPqm50DQ=w40)
@@ -44,6 +50,9 @@ Employed at
 
 **Have feedback on this post? Let @claudiahill know on Twitter.
 Need help? Contact me on facebook.**
+
+Legal Framework
+https://ec.europa.eu/digital-single-market/en/news/proposal-directive-european-parliament-and-council-copyright-digital-single-market
 
 © 2018 claudiahill  All Rights Reserved  Privacy Policy
 
