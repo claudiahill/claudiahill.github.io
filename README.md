@@ -20,14 +20,14 @@ Learn more on  **LinkedIn**
 ![Credit Suisse](https://media.licdn.com/dms/image/C4D0BAQHeKEVElO-A3Q/company-logo_400_400/0?e=1544659200&v=beta&t=0miG5O3W0_PkCoX4oBCqkUED-uR_9NhWlqOwr50NrG8=w40)
 <div class="row">
 	<div class="large-12 columns">
-		<h3>Empoyled at</h3>
+		<h3>Employed at</h3>
 	</div>
 	<div class="large-6 columns">
 	<ul class="accordion" data-accordion data-allow-all-closed="true">
 		<li class="accordion-item" data-accordion-item>
 			<a href="#" class="accordion-title">Credit Suisse</a>
 			<div class="accordion-content" data-tab-content>
-      <p>skills</p>
+      <p>Skills</p>
 			</div>
     </li>
 
